@@ -1,0 +1,7 @@
+npm: package manager
+npx: it will run package without downloading it
+
+
+settings->search emmet->include languages->javascript:javascriptreact
+
+// JSX is compiled using Bable
